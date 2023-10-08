@@ -1,0 +1,15 @@
+.bg-whole-Container{
+    background-image:url("/home/chetan/My PC/Wallpapers/wallpaperflare.com_wallpaper (12).jpg") ;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.header{
+    color: blue;
+}
+.card-container{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: center;
+    background-color: white;
+}
